@@ -40,7 +40,7 @@ DAX
 ![Zrzut ekranu 2024-12-20 144725](https://github.com/user-attachments/assets/df5bce53-e162-47b8-b3d7-0bc9e3ae199d)
 ![Zrzut ekranu 2024-12-20 144811](https://github.com/user-attachments/assets/283181bd-e6a9-4884-be4e-85d402b551d5)
 
-Advanced Calculations in DAX:
+Advanced Calculations in DAX:  
 ![Zrzut ekranu 2024-12-20 154022](https://github.com/user-attachments/assets/0be9776c-4c41-4f85-81d2-25070998077e)  
 
 ![Zrzut ekranu 2024-12-20 153947](https://github.com/user-attachments/assets/bf778a31-3d45-4a3b-b4a7-f71c64e538d2)  
