@@ -41,18 +41,17 @@ DAX
 ![Zrzut ekranu 2024-12-20 144811](https://github.com/user-attachments/assets/283181bd-e6a9-4884-be4e-85d402b551d5)
 
 Advanced Calculations in DAX:  
-![Zrzut ekranu 2024-12-20 154022](https://github.com/user-attachments/assets/0be9776c-4c41-4f85-81d2-25070998077e)  
+![Zrzut ekranu 2024-12-20 154022](https://github.com/user-attachments/assets/dfc5244f-a5f6-4e67-83aa-0bc5ab48b1c8)  
 
-![Zrzut ekranu 2024-12-20 153947](https://github.com/user-attachments/assets/bf778a31-3d45-4a3b-b4a7-f71c64e538d2)  
+![Zrzut ekranu 2024-12-20 153947](https://github.com/user-attachments/assets/1cf2fb6b-7aa6-4f48-8e21-e84c6a3311cf)  
 
-![Zrzut ekranu 2024-12-20 153919](https://github.com/user-attachments/assets/d4f06d2a-9854-47a5-8064-1d337c760d0d)  
+![Zrzut ekranu 2024-12-20 153919](https://github.com/user-attachments/assets/65467fdb-88eb-41ea-aa92-d7c533f0a5a6)  
 
-![Zrzut ekranu 2024-12-20 153853](https://github.com/user-attachments/assets/123d810e-94ec-4bf2-8cb8-c102af2583e1)  
+![Zrzut ekranu 2024-12-20 153853](https://github.com/user-attachments/assets/fe7b66ee-ea3c-49fe-b29b-4b98347705fb)  
 
-![Zrzut ekranu 2024-12-20 153838](https://github.com/user-attachments/assets/8a31e838-34a8-4295-99f4-4e76e1a9ebb3)  
+![Zrzut ekranu 2024-12-20 153838](https://github.com/user-attachments/assets/c2f5cdbb-e868-4bc8-8676-4be40b1b33df)  
 
-![Zrzut ekranu 2024-12-20 153812](https://github.com/user-attachments/assets/8116a8b7-1c5c-46c3-b19a-481755f03058)  
+![Zrzut ekranu 2024-12-20 154110](https://github.com/user-attachments/assets/baece825-575d-480c-bf68-a0eabeb099b8)  
 
-![image](https://github.com/user-attachments/assets/582eb672-f809-4a54-9b8a-93d95033ed87)
 
 
